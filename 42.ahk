@@ -39,11 +39,18 @@ CapsLock & SC027::PgDn
 :*?:5/8::⅝
 :*?:7/8::⅞
 
+LShift & NumpadAdd::SendText "†"
+LShift & NumpadSub::SendText "―"
+LShift & NumpadMult::SendText "×"
+LShift & NumpadDiv::SendText "÷"
+; LShift & NumpadDot::SendText "·"  Shift + NumpadDot => Delete 배정 때문에 안됨
+
 CapsLock & NumpadAdd::SendText "※"
 CapsLock & NumpadSub::SendText "°"
-CapsLock & NumpadMult::SendText "×"
-CapsLock & NumpadDiv::SendText "÷"
+CapsLock & NumpadDiv::SendText "〃"
+CapsLock & NumpadMult::SendText "☆"
 CapsLock & NumpadDot::SendText "…"
+
 CapsLock & [::SendText "「"
 CapsLock & ]::SendText "」"
 CapsLock & ,::SendText "〈"

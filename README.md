@@ -25,13 +25,12 @@
 - Caps Lock + 넘패드 3 → `↘`
 - Caps Lock + 넘패드 2 → `↓`
 - Caps Lock + 넘패드 1 → `↙`
-### Caps Lock + 넘패드 → 특수문자
 - Caps Lock + 넘패드 5 → `·`
-- Caps Lock + 넘패드 5 → `Δ`
+### Caps Lock + 넘패드 → 관련 특수문자
 - Caps Lock + 넘패드 + → `※`
 - Caps Lock + 넘패드 - → `°`
-- Caps Lock + 넘패드 * → `×`
-- Caps Lock + 넘패드 / → `÷`
+- Caps Lock + 넘패드 * → `☆`
+- Caps Lock + 넘패드 / → `〃`
 - Caps Lock + 넘패드 . → `…`
 ### Caps Lock + 특수문자 → (더) 특수문자
 - Caps Lock + [ → `「`
@@ -56,6 +55,12 @@
 - Caps Lock + \` → `ⁿ`
 ### Caps Lock + 탭 → 탭 문자 (`\t`)
 - Caps Lock + Tab → `	`
+## Left Shift 계열
+### Left Shift + 넘패드 → 변형 특수문자
+- Left Shift + 넘패드 + → `†`
+- Left Shift + 넘패드 - → `―`
+- Left Shift + 넘패드 * → `×`
+- Left Shift + 넘패드 / → `÷`
 ## Left Ctrl 계열
 ### Left Ctrl + 숫자 → 아랫첨자 숫자
 - Left Ctrl + 1 → `₁`
