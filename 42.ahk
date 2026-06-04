@@ -97,6 +97,11 @@ LCtrl & -::SendText "₋"
 LCtrl & =::SendText "₊"
 LCtrl & `::SendText "ₙ"
 
+LAlt & Numpad5::{
+    dateTime := FormatTime( , "yyyy년 M월 d일 dddd tt h시 m분" )
+    SendInput( dateTime )
+}
+
 CapsLock & Tab::{
     clipboardSaved := ClipboardAll()
     A_Clipboard := "	"
