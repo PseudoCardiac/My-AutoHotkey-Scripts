@@ -1,5 +1,6 @@
 #Requires AutoHotkey v2.0
 SetCapsLockState "AlwaysOff"
+Insert::return
 
 CapsLock & W::Up
 CapsLock & A::Left
