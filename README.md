@@ -77,6 +77,7 @@
 - Left Ctrl + = → `₊`
 - Left Ctrl + \` → `ₙ`
 ## Left Alt 계열
+- Left Alt + 넘패드 4 → `yyyy-MM-ddTHH:mm`
 - Left Alt + 넘패드 5 → `yyyy년 M월 d일 dddd tt h시 m분`
 ## 연속 입력 텍스트 변환 계열
 ### 수학 기호
