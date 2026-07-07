@@ -98,6 +98,30 @@ LCtrl & -::SendText "₋"
 LCtrl & =::SendText "₊"
 LCtrl & `::SendText "ₙ"
 
+NumpadHome::SendText "┌"
+NumpadUp::SendText "┬"
+NumpadPgup::SendText "┐"
+NumpadLeft::SendText "├"
+NumpadClear::SendText "┼"
+NumpadRight::SendText "┤"
+NumpadEnd::SendText "└"
+NumpadDown::SendText "┴"
+NumpadPgdn::SendText "┘"
+NumpadIns::SendText "─"
+NumpadDel::SendText "│"
+
+LShift & Numpad7::SendText "┌"
+LShift & Numpad8::SendText "┬"
+LShift & Numpad9::SendText "┐"
+LShift & Numpad4::SendText "├"
+LShift & Numpad5::SendText "┼"
+LShift & Numpad6::SendText "┤"
+LShift & Numpad1::SendText "└"
+LShift & Numpad2::SendText "┴"
+LShift & Numpad3::SendText "┘"
+LShift & Numpad0::SendText "─"
+LShift & NumpadDot::SendText "│"
+
 LAlt & Numpad5::{
     dateTime := FormatTime( , "yyyy년 M월 d일 dddd tt h시 m분" )
     SendInput( dateTime )

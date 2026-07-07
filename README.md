@@ -56,11 +56,23 @@
 ### Caps Lock + 탭 → 탭 문자 (`\t`)
 - Caps Lock + Tab → `	`
 ## Left Shift 계열
-### Left Shift + 넘패드 → 변형 특수문자
+### Left Shift + 넘패드 기호 → 변형 특수문자
 - Left Shift + 넘패드 + → `†`
 - Left Shift + 넘패드 - → `―`
 - Left Shift + 넘패드 * → `×`
 - Left Shift + 넘패드 / → `÷`
+### Left Shift + 넘패드 숫자 → 직선 특수문자
+- Left Shift + 넘패드 7 → `┌`
+- Left Shift + 넘패드 8 → `┬`
+- Left Shift + 넘패드 9 → `┐`
+- Left Shift + 넘패드 4 → `├`
+- Left Shift + 넘패드 5 → `┼`
+- Left Shift + 넘패드 6 → `┤`
+- Left Shift + 넘패드 1 → `└`
+- Left Shift + 넘패드 2 → `┴`
+- Left Shift + 넘패드 3 → `┘`
+- Left Shift + 넘패드 0 → `─`
+- Left Shift + 넘패드 . → `│`
 ## Left Ctrl 계열
 ### Left Ctrl + 숫자 → 아랫첨자 숫자
 - Left Ctrl + 1 → `₁`
