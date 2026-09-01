@@ -68,7 +68,7 @@ CapsLock & Numpad3::SendText "↘"
 CapsLock & Numpad2::SendText "↓"
 CapsLock & Numpad1::SendText "↙"
 CapsLock & Numpad5::SendText "·"
-CapsLock & Numpad0::SendText "Δ"
+CapsLock & Numpad0::SendText "○"
 
 CapsLock & 1::SendText "¹"
 CapsLock & 2::SendText "²"

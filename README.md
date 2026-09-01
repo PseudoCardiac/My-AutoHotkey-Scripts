@@ -16,7 +16,7 @@
 - Caps Lock + K → Delete
 - Caps Lock + L → End
 - Caps Lock + ; → Page Down
-### Caps Lock + 넘패드 → 화살표
+### Caps Lock + 넘패드 숫자 → 화살표 등
 - Caps Lock + 넘패드 4 → `←`
 - Caps Lock + 넘패드 7 → `↖`
 - Caps Lock + 넘패드 8 → `↑`
@@ -26,7 +26,8 @@
 - Caps Lock + 넘패드 2 → `↓`
 - Caps Lock + 넘패드 1 → `↙`
 - Caps Lock + 넘패드 5 → `·`
-### Caps Lock + 넘패드 → 관련 특수문자
+- Caps Lock + 넘패드 0 → `○`
+### Caps Lock + 넘패드 기호 → 관련 특수문자
 - Caps Lock + 넘패드 + → `※`
 - Caps Lock + 넘패드 - → `°`
 - Caps Lock + 넘패드 * → `☆`
