@@ -2,7 +2,7 @@
 > .exe 파일 갖다가 `C:/Users/{username}/AppData/Roaming/Microsoft/Windows/시작 메뉴/프로그램/시작프로그램`에다가 넣으면 컴퓨터 켤 때 자동 실행됨 쏘굿
 
 # 스크립트 기능 일람
-※ 해당 스크립트는 Caps Lock, Insert의 기능을 상시 비활성화함.
+※ 해당 스크립트는 Caps Lock의 기능을 상시 비활성화함.
 ## Caps Lock 계열
 ### Caps Lock + WASD → 방향키
 - Caps Lock + W → Up
@@ -10,7 +10,7 @@
 - Caps Lock + S → Down
 - Caps Lock + D → Right
 ### Caps Lock + IOPKL; → 내비게이션 키
-- Caps Lock + I → Insert
+- Caps Lock + I → ~~Insert~~ 동작 없음
 - Caps Lock + O → Home
 - Caps Lock + P → Page Up
 - Caps Lock + K → Delete

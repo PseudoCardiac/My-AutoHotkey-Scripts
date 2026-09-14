@@ -1,13 +1,12 @@
 #Requires AutoHotkey v2.0
 SetCapsLockState "AlwaysOff"
-Insert::return
 
 CapsLock & W::Up
 CapsLock & A::Left
 CapsLock & S::Down
 CapsLock & D::Right
 
-CapsLock & I::Insert
+CapsLock & I::return
 CapsLock & O::Home
 CapsLock & P::PgUp
 CapsLock & K::Delete
