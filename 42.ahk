@@ -126,10 +126,10 @@ LAlt & Numpad5::{
     SendInput( dateTime )
 }
 
-LAlt & Numpad4::{
-    dateTime := FormatTime( , "yyyy-MM-ddTHH:mm" )
-    SendInput( dateTime )
-}
+; LAlt & Numpad4::{
+;     dateTime := FormatTime( , "yyyy-MM-ddTHH:mm" )
+;     SendInput( dateTime )
+; }
 
 CapsLock & Tab::{
     clipboardSaved := ClipboardAll()
